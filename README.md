@@ -1,6 +1,6 @@
 # 📡 Solução de Capacidade para Rede Móvel
 
-Este projeto visa resolver problemas de implantação de capacidade para Estações Rádio Base (ERB) utilizando a biblioteca PuLP do Python, que é uma ferramenta para modelagem de problemas de Programação Linear (LP) e Programação Inteira (IP). Neste projeto, exploramos as técnicas de pesquisa operacional para determinar o conjunto ideal de soluções que permitam atingir uma capacidade alvo em uma Estação Rádio Base.
+Este projeto visa resolver problemas de implantação de capacidade para Estações Rádio Base (ERB) utilizando a biblioteca PuLP do Python, que é uma ferramenta para modelagem de problemas de Programação Linear (LP). Neste projeto, exploramos as técnicas de pesquisa operacional para determinar o conjunto ideal de soluções que permitam atingir uma capacidade alvo em uma Estação Rádio Base.
 
 ## Bibliotecas utilizadas
 ```

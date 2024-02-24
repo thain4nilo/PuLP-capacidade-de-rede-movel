@@ -7,7 +7,6 @@ Este projeto visa resolver problemas de implantação de capacidade para Estaç�
 from pulp import *
 import pandas as pd
 import numpy as np
-import modulo3_funcoes
 import config
 import datetime
 import warnings
